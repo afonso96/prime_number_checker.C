@@ -4,13 +4,13 @@
 
 void main()
 {
-    //definindo variaveis
+    //defining variables
     int i=0;
-    // usuario colocando valor da variavel
+    // user putting variable value
     printf("Digite o numero que deseja");
     scanf("%d", &i);
 
-    //verificando se e um numero primo
+    //checking if it's a prime number
       if(i==5|| i==3){
         printf("%d numero primo \n",i);
 
